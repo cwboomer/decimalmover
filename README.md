@@ -1,2 +1,2 @@
 # decimalmover
-experiments in time
+experiments in time, a thoughtful challenge
